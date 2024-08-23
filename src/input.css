@@ -20,7 +20,9 @@
     .btn-primary {
         @apply  py-2 px-4 rounded-full flex justify-center items-center gap-2 text-text-primary;
     }
-
+    .btn-secondary {
+        @apply  py-1 px-4 rounded-full flex justify-center items-center gap-2 text-text-primary;
+    }
     .btn-white-round{
         @apply bg-black p-2 rounded-full;
     }
